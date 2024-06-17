@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment1.params=nome\ salarioPorHora
+comment1.target=Funcionario(java.lang.String,\ double)
+comment2.params=horas
+comment2.target=void\ adicionarHoras(int)
+comment3.params=
+comment3.target=int\ getHorasTrabalhadas()
+comment4.params=
+comment4.target=double\ calcularSalario()
+comment5.params=
+comment5.target=double\ getSalarioPorHora()
+numComments=6
